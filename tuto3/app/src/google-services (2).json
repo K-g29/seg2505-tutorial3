@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470157499766",
+    "project_id": "tuto3-c1544",
+    "storage_bucket": "tuto3-c1544.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470157499766:android:f8b3b844018741d32c6e57",
+        "android_client_info": {
+          "package_name": "com.example.tuto3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqbSDtbWZhQzTp3-KamfVAXlrc4a2vcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
